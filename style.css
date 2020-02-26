@@ -1,0 +1,31 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500; /* if you want the light version */
+  background-color: #C8D3D5;
+}
+
+h1{
+  color: #333333;
+  text-align: left;
+}
+
+p{
+  color: #333333;
+}
+
+.catbutton{
+  background: red;
+  color: white;
+  font-weight: 900;
+  padding: 20px;
+  border-radius: 90px;
+  height: 100px;
+  width: 100px;
+  border: 5px solid white;
+}
+
+.catbutton:hover{
+  background: #8D021F;
+}
